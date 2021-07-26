@@ -6,6 +6,11 @@ a {
   color: #295e6a;
 }
 
+.App {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
 .App-header {
   font-size: 50px;
   font-weight: 600;
@@ -14,6 +19,7 @@ a {
 }
 
 .App-footer {
+  font-size: 13px;
   margin: 30px 0;
   text-align: center;
 }
